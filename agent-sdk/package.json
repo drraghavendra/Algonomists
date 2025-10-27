@@ -1,0 +1,22 @@
+{
+  "name": "@agentweb/agent-sdk",
+  "version": "1.0.0",
+  "description": "SDK for AI agents to interact with agent-friendly web infrastructure",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest"
+  },
+  "dependencies": {
+    "algosdk": "^2.8.0",
+    "axios": "^1.6.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0"
+  }
+}

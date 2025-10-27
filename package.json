@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev:backend": "cd backend && uvicorn app.main:app --reload",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "deploy:contracts": "python backend/deploy_contracts.py",
+    "test": "pytest backend/tests/ -v"
+  }
+}
