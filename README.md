@@ -9,6 +9,10 @@ We're transforming AI from a **parasitic force** draining resources into a **sym
 
 ---
 
+Algorand DAPP Quickstart https://github.com/drraghavendra/Algonomists/blob/main/TEMPLATE_README.md
+
+
+
 ## 🏗️ **Architectural Brilliance: The Three Pillars**
 
 ### **1. 🎭 Digital Identity & Reputation Layer**
