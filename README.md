@@ -9,7 +9,7 @@ We're transforming AI from a **parasitic force** draining resources into a **sym
 
 ---
 
-Algorand dApp Quick Start Guide (Base Template)
+## Algorand dApp Quick Start Guide (Base Template)
 This guide helps non‑technical founders and developers quickly prototype and test Web3 ideas on Algorand using this starter. You’ll set up the project, customize the UI via safe AI prompts, mint tokens and NFTs, and interact with smart contracts.
 
 https://github.com/drraghavendra/Algonomists/blob/main/TEMPLATE_README.md
